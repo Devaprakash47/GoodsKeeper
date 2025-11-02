@@ -60,14 +60,7 @@ It’s designed with a **modern, minimal, and scalable architecture** — perfec
 | 🏠 **Home** | ![Home](screenshots/Home.png) |
 | ➕ **Add Storage** | ![Add Storage](screenshots/AddStorage.png) |
 
----
-
-## 🌍 Example Tamil Nadu Locations
-- 📍 T. Nagar  
-- 📍 Anna Nagar  
-- 📍 Velachery  
-- 📍 Tambaram  
-- 📍 Adyar  
+ 
 
 ---
 
